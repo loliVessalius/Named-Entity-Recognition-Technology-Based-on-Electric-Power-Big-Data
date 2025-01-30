@@ -1,1 +1,2 @@
 # Named-Entity-Recognition-Technology-Based-on-Electric-Power-Big-Data
+A named entity recognition (NER) system specifically designed for electric power big data. It leverages a powerful combination of BERT for contextualized word representations, BiGRU for capturing sequential dependencies, and CRF for optimal sequence labeling. This architecture aims to achieve high accuracy in identifying and classifying key entities within the complex domain of electric power data.

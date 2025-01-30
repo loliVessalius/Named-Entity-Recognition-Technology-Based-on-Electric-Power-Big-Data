@@ -1,0 +1,1 @@
+{"do_lower_case": false, "vocab_file": "/home/aistudio/.paddlenlp/models/bert-base-chinese/bert-base-chinese-vocab.txt", "init_class": "BertTokenizer"}
